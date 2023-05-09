@@ -1,4 +1,4 @@
-.global strip_string
+	.global strip_string
 
 # Removes new line symbol from the user input
 # Arguments:

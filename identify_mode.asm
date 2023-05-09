@@ -1,6 +1,5 @@
-.eqv PATH_SIZE, 100
-
-.global identify_mode
+	.global identify_mode
+	.eqv PATH_SIZE, 100
 
 # Identify decryption / encryption based on the file extension
 # Arguments:
